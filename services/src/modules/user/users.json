@@ -1,0 +1,20 @@
+{
+    "collections": {
+        "users": [
+            {
+                "name": "Marcin Polak",
+                "username": "mapoart",
+                "email": "mapoart@gmail.com",
+                "password": "passwordmy",
+                "admin": true,
+            },
+            {
+                "name": "Tomasz Xiński",
+                "username": "tomekx",
+                "email": "tomekx@gmail.com",
+                "password": "anotherpasswordx",
+                "admin": false,
+            }
+        ]
+    }
+}

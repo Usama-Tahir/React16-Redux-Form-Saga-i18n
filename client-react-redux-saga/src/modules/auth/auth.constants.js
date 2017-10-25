@@ -1,0 +1,9 @@
+const AUTH_SET = 'AUTH_SET'
+const AUTH_UNSET = 'AUTH_UNSET'
+const REFRESH_TOKEN = 'REFRESH_TOKEN'
+
+export {
+    AUTH_SET,
+    AUTH_UNSET,
+    REFRESH_TOKEN
+}
